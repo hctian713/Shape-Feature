@@ -18,5 +18,5 @@
     >轮廓特征：周长、圆形度  
     >区域特征：面积、重心
 #### 测试界面
-_不同的阈值结果_
+**_不同的阈值结果_**  
 <img src='./interface1.jpg' width='400'> <img src='./interface2.jpg' width='400'>
