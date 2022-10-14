@@ -13,7 +13,7 @@
 ## 核心算法
 - 图像连通域标记
     >两次扫描法    
-    <img src='./图片1.gif' width='200'><br><br/>  
+    <img src='./图片1.gif' width='200'><br> 
     >种子填充法  
     <img src='./图片2.gif' width='200'>
 - 图像特征计算
