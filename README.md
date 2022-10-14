@@ -6,8 +6,8 @@
 <img src="./算法流程.jpg" width="300">  
 
 ## 辅助算法
-- 图像灰度化 
-    -> aassdsdasd
+- 图像灰度化   
+    - > aassdsdasd
 - 图像二值化  
 - 
 ## 核心算法
