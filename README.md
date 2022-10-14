@@ -17,6 +17,8 @@
 - 图像特征计算
     >轮廓特征：周长、圆形度  
     >区域特征：面积、重心
-#### 测试界面
-**_不同的阈值结果_**  
+### 测试界面
+- **_取不同的形状面积阈值_**  
 <img src='./interface1.jpg' width='400'> <img src='./interface2.jpg' width='400'>
+- **_高分遥感影像_** 
+<img src='./img_test/ik_beijing_p.bmp' width='400'> <img src='./interface4.jpg' width='400'>
