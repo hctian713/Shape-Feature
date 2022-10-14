@@ -7,7 +7,7 @@
 
 ## 辅助算法
 - 图像灰度化 
- > aassdsdasd
+    -> aassdsdasd
 - 图像二值化  
 - 
 ## 核心算法
