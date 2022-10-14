@@ -13,7 +13,7 @@
 ## 核心算法
 - 图像连通域标记
     >两次扫描法  
-![img]('https://github.com/Michael-Tian-Whu/Shape-Feature/blob/main/%E5%9B%BE%E7%89%871.gif'')
+![img]('./interface1.jpg')
 <!--     <img src='./图片1.gif' width='400'>   -->
     >种子填充法
 - 图像特征计算
