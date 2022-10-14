@@ -19,6 +19,7 @@
     >区域特征：面积、重心
 ## 测试界面
 - **_取不同的形状面积阈值_**  
-<img src='./interface1.jpg' width='400'> <img src='./interface2.jpg' width='400'>
+<img src='./interface1.jpg' width='400'> 
+<img src='./interface2.jpg' width='400'>
 - **_高分遥感影像_**   
-<img src='./img_test/ik_beijing_p.bmp' width='400'> <img src='./interface3.jpg' width='400'>
+<img src='./img_test/ik_beijing_p.bmp' width='300'> <img src='./interface3.jpg' width='300'>
